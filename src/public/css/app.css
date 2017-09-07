@@ -1,0 +1,62 @@
+.body-content {
+    margin-top: 70px;
+}
+
+.body-background {
+    background-image: url('../images/subtle_white_mini_waves.png');
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.board-logo {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.board-wrap {
+    padding: 20px 10px;
+}
+
+.board {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #CCC;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.board-text {
+    line-height: 2.0;
+    padding-left: 50px;
+}
+
+.counter {
+    display: inline-block;
+    padding: 2px 5px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    color: #586069;
+    background-color: rgba(27,31,35,0.08);
+    border-radius: 20px;
+}
+
+.repo-body {
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    background-color: white;
+}
+
+.card-border {
+    border-bottom: 1px solid rgba(27,31,35,0.08);
+    padding: 5px;
+}
+
+.repo-card {
+    border: 1px solid #777;
+    padding: 10px;
+    line-height: 2.2;
+}
